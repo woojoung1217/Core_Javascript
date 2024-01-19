@@ -13,4 +13,4 @@
 
 ### Basic
 
-- [] Core structure [바로가기](https://www.naver.com)
+- [ ] Core structure [바로가기](https://www.naver.com)
