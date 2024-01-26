@@ -68,6 +68,17 @@ const js = {
   currentVersion: 2023,
 };
 
+Object.prototype.nickName = "nickname";
+
+for (let key in js) {
+  if (!Object.prototype.hasOwnProperty.call(js, key)) continue;
+  console.log(`${key}: ${js[key]}`);
+}
+
+let answer = confirm('Are you sure you want to leave?')
+
+console.log(answer);
+
 
 
 
