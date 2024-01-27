@@ -97,4 +97,4 @@ const func2 = function (a, b) {
 }
 
 
-console.log(value2) //
+console.log(value2) //222
